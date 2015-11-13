@@ -81,11 +81,6 @@ $variations: (
 }
 
 .box {
-  font-weight: bold;
-  font-size: 2em;
-  padding: 1em;
-  display: inline-block;
-
   // Let's do this!
   border: 2px solid cv(orange, gray);
   background: cv(orange, dark);
